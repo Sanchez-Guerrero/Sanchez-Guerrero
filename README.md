@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moisés David Sánchez Guerrero</h1>
 <h3 align="center">A passionate web developer from Mexico.</h3>
 
-- 📫 How to reach me **moisesguerrero0968@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/moisesdavid.sanchezguerrero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/moisesdavid.sanchezguerrero/" height="30" width="40" /></a>
 <a href="https://instagram.com/sancguerrero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sancguerrero" height="30" width="40" /></a>
